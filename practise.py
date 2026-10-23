@@ -23,4 +23,4 @@ print("The average of", num1, "and", num2, "is:", average)
 a = int(input('a : '))
 b = int(input('b : '))
 
-print(a >= b)
+print(a >= b) 
